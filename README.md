@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Daniellle — a passionate and dedicated web developer and programmer.
+💻 I specialize in building responsive and dynamic websites using HTML, CSS, JavaScript, PHP, and React.js.
+📚 I'm continuously learning and expanding my skills in full-stack development, with experience in C++, Java, and version control with Git.
+🚀 I'm currently working on personal projects and open to internships, collaborations, and opportunities to grow.
+🔗 Check out my work and feel free to connect!
+ 
+ Ps:⚡ Fun fact: I love Dogs and the beach!
 <!--
 **1e-gilbert/1e-gilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
