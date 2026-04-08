@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Danielle — a passionate and dedicated web developer and programmer. <br>💻 I specialise in building responsive and dynamic websites using HTML, CSS, JavaScript, PHP, and React.js. <br>📚 I'm continuously learning and expanding my skills in full-stack development, with experience in C++, Java, and version control with Git. <br>🚀 I'm currently working on personal projects and open to internships, collaborations, and opportunities to grow. <br>🔗 Check out my work, and feel free to connect!<br><br>P.S.⚡ Fun fact: I love dogs and the beach!
+I'm Danielle - a passionate and dedicated web developer and programmer. <br>💻 I specialise in building responsive and dynamic websites using HTML, CSS, JavaScript, PHP, and React.js. <br>📚 I'm continuously learning and expanding my skills in full-stack development, with experience in C++, Java, and version control with Git. <br>🚀 I'm currently working on personal projects and open to internships, collaborations, and opportunities to grow. <br>🔗 Check out my work, and feel free to connect!<br><br>P.S.⚡ Fun fact: I love dogs and the beach!
 
 
 # 💻 Tech Stack:
